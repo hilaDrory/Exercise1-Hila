@@ -6,6 +6,11 @@
 typedef struct Queue
 {
 	// Complete the definition here
+	unsigned int* _array;
+	unsigned int _size;
+	unsigned int _count;
+	unsigned int _head;
+	
 	
 } Queue;
 
